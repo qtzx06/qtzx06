@@ -100,7 +100,7 @@
   />
 </h2>
 
-I love connecting with fellow builders, researchers, and **curious minds**. Whether you want to brainstorm a project or just geek out about tech, I'm always up for a good conversation. Coffee chats, late-night coding sessions, or quick DMs, whatever works for you.
+I love connecting with fellow builders, researchers, and **curious minds**. Whether you want to brainstorm a project or just geek out about tech, I'm always up for a good conversation. Coffee chats, coding sessions, or quick DMs, whatever works for you.
 
 **Research Collaborations** • **Open Source Projects** • **Hackathon Teams** • **Tech Discussions**
 
