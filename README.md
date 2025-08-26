@@ -10,7 +10,7 @@
 
 <div align="center">
   I'm a <strong>Data Science + Math CS Student</strong>, <strong>Software Engineer</strong> and <strong>Web Developer</strong> from San Diego, California.</br>
-  I thrive on experimenting with emerging technologies, from novel programming paradigms to powerful frameworks and developer tools.</br>
+  I thrive on experimenting with emerging technologies, from novel programming paradigms to powerful developer tools.</br>
   I'm especially passionate about <strong>Linux ecosystems</strong>, <strong>AI applications</strong>, <strong>command-line tools</strong>, and <strong>networking</strong>.
 
 </div>
