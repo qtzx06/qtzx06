@@ -1,7 +1,7 @@
 <div align="center">
   <img
     alt="ƪ. ◖ƪ❍⊁◞.|◗щ (*ㅇ△₊⁎❝᷀ົཽ*ೃ:(꒡͡ ❝᷀ົཽ ꉺ¨.·*:･✧⃛(ཽ๑"
-    src="media/about/blurred.png"
+    src="blurred.png"
   />
 </div>
 
@@ -11,7 +11,7 @@
     width="42px"
     height="42px"
     alt="△▃△▓⣎ ꉺლ༽இ•̛)ྀ"
-    src="media/about/favicon.png"
+    src="favicon.png"
   />
 </h2>
 
@@ -28,13 +28,13 @@
     width="42px"
     height="42px"
     alt="･✧(๑ඕัළ*.。 *¨°。"
-    src="media/about/image1.png"
+    src="image1.png"
   />
 </h2>
 
 <div align="center">
 
-<a href="https://qtzx.dev"><img src="media/portfolio/portfolio.gif" alt="Portfolio" width="100%"></a>
+<a href="https://qtzx.dev"><img src="portfolio.gif" alt="⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ" width="100%"></a>
 
 
 <h2 align="center">
@@ -43,7 +43,7 @@
     width="42px"
     height="42px"
     alt="ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ"
-    src="media/about/warrior.png"
+    src="warrior.png"
   />
 </h2>
 
@@ -103,7 +103,7 @@
     width="42px"
     height="42px"
     alt="O(∩_∩)O"
-    src="media/about/image2.png"
+    src="image2.png"
   />
 </h2>
 
@@ -113,7 +113,11 @@ I love connecting with fellow builders, researchers, and **curious minds**. Whet
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshualin3806@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@qtzx06/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joshualin06/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joshualin3806@gmail.com) 
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/qtzx06/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-lin-86b8a324a/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/qtzx06)
 
 </div>
