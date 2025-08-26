@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi world, I'm Joshua!  
+  Hi, I'm Joshua!  
   <a href="https://qtzx.dev">
     <img align="center"
       width="42px"
