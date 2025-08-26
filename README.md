@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello world, I'm Joshua!  
+  Hi, I'm Joshua!  
   <img align="center"
     width="42px"
     height="42px"
