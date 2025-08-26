@@ -1,11 +1,13 @@
 <h2 align="center">
-  Hi, I'm Joshua!  
-  <img align="center"
-    width="42px"
-    height="42px"
-    alt="△▃△▓⣎ ꉺლ༽இ•̛)ྀ"
-    src="favicon.png"
-  />
+  Hi world, I'm Joshua!  
+  <a href="https://qtzx.dev">
+    <img align="center"
+      width="42px"
+      height="42px"
+      alt="△▃△▓⣎ ꉺლ༽இ•̛)ྀ"
+      src="favicon.png"
+    />
+  </a>
 </h2>
 
 <div align="center">
@@ -17,12 +19,14 @@
 
 <h2 align="center">
  My portfolio website:  
-  <img align="center"
-    width="42px"
-    height="42px"
-    alt="･✧(๑ඕัළ*.。 *¨°。"
-    src="qtzx.png"
-  />
+  <a href="https://qtzx.dev">
+    <img align="center"
+      width="42px"
+      height="42px"
+      alt="･✧(๑ඕัළ*.。 *¨°。"
+      src="qtzx.png"
+    />
+  </a>
 </h2>
 
 <div align="center">
@@ -32,12 +36,14 @@
 
 <h2 align="center">
   Technologies I use:  
-  <img align="center"
-    width="42px"
-    height="42px"
-    alt="ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ"
-    src="warrior.png"
-  />
+  <a href="https://qtzx.dev">
+    <img align="center"
+      width="42px"
+      height="42px"
+      alt="ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ"
+      src="warrior.png"
+    />
+  </a>
 </h2>
 
 <div align="center">
@@ -92,12 +98,14 @@
 
 <h2 align="center">
  Let's connect!  
-  <img align="center"
-    width="42px"
-    height="42px"
-    alt="ƪ. ◖ƪ❍⊁◞.|◗щ (*ㅇ△₊⁎❝᷀ົཽ*ೃ:(꒡͡ ❝᷀ົཽ ꉺ¨.·*:･✧⃛(ཽ๑"
-    src="aura.png"
-  />
+  <a href="https://qtzx.dev">
+    <img align="center"
+      width="42px"
+      height="42px"
+      alt="ƪ. ◖ƪ❍⊁◞.|◗щ (*ㅇ△₊⁎❝᷀ົཽ*ೃ:(꒡͡ ❝᷀ົཽ ꉺ¨.·*:･✧⃛(ཽ๑"
+      src="aura.png"
+    />
+  </a>
 </h2>
 
 I love connecting with fellow builders, researchers, and **curious minds**. Whether you want to brainstorm a project or just geek out about tech, I'm always up for a good conversation. Coffee chats, coding sessions, or quick DMs, whatever works for you.
