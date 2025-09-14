@@ -11,7 +11,7 @@
 </h2>
 
 <div align="center">
-  I'm a <strong>Data Science + Math CS Student</strong>, <strong>Software Engineer</strong> and <strong>Web Developer</strong> from San Diego, California.</br>
+  I'm a 2nd-year <strong>Data Science + Math CS Student</strong>, <strong>Software Engineer</strong> and <strong>Web Developer</strong> at UC San Diego, California.</br>
   I thrive on experimenting with emerging technologies, from novel programming paradigms to powerful developer tools.</br>
   I'm especially passionate about <strong>Linux ecosystems</strong>, <strong>AI applications</strong>, <strong>command-line tools</strong>, and <strong>networking</strong>.
 
