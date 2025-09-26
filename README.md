@@ -31,7 +31,7 @@
 
 <div align="center">
 
-<a href="https://qtzx.dev"><img src="portfolio" alt="⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ" width="100%"></a>
+<a href="https://qtzx.dev"><img src="portfolio.gif" alt="⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ" width="100%"></a>
 
 
 <h2 align="center">
