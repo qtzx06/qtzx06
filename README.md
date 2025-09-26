@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi, I'm Joshua!  
+  hi, i'm joshua!  
   <a href="https://qtzx.dev">
     <img align="center"
       width="42px"
@@ -11,14 +11,14 @@
 </h2>
 
 <div align="center">
-  I'm a 2nd-year <strong>Data Science + Math CS Student</strong>, <strong>Software Engineer</strong> and <strong>Web Developer</strong> at UC San Diego, California.</br>
-  I thrive on experimenting with emerging technologies, from novel programming paradigms to powerful developer tools.</br>
-  I'm especially passionate about <strong>Linux ecosystems</strong>, <strong>AI applications</strong>, <strong>command-line tools</strong>, and <strong>networking</strong>.
+  i'm a 2nd-year <strong>data science + math cs student</strong>, <strong>software engineer</strong> and <strong>web developer</strong> at uc san diego, california.</br>
+  i thrive on experimenting with emerging technologies, from novel programming paradigms to powerful developer tools.</br>
+  i'm especially passionate about <strong>linux ecosystems</strong>, <strong>ai applications</strong>, <strong>command-line tools</strong>, and <strong>networking</strong>.
 
 </div>
 
 <h2 align="center">
- My portfolio website:  
+ my portfolio website:  
   <a href="https://qtzx.dev">
     <img align="center"
       width="42px"
@@ -88,16 +88,16 @@
 
 <!--
 
-## GitHub Stats
+## github stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=qtzx06&show_icons=true&theme=dark)
+![your github stats](https://github-readme-stats.vercel.app/api?username=qtzx06&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtzx06&layout=compact&theme=dark)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtzx06&layout=compact&theme=dark)
 
 -->
 
 <h2 align="center">
- Let's connect!  
+ let's connect!  
   <a href="https://qtzx.dev">
     <img align="center"
       width="42px"
@@ -108,9 +108,9 @@
   </a>
 </h2>
 
-I love connecting with fellow builders, researchers, and **curious minds**. Whether you want to brainstorm a project or just geek out about tech, I'm always up for a good conversation. Coffee chats, coding sessions, or quick DMs, whatever works for you.
+i love connecting with fellow builders, researchers, and **curious minds**. whether you want to brainstorm a project or just geek out about tech, i'm always up for a good conversation. coffee chats, coding sessions, or quick dms, whatever works for you.
 
-**Research Collaborations** • **Open Source Projects** • **Hackathon Teams** • **Tech Discussions**
+**research collaborations** • **open source projects** • **hackathon teams** • **tech discussions**
 
 <div align="center">
 
