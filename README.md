@@ -35,7 +35,7 @@
 
 
 <h2 align="center">
-  Technologies I use:  
+  technologies I use:  
   <a href="https://qtzx.dev">
     <img align="center"
       width="42px"
